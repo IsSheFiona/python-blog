@@ -1,5 +1,5 @@
 .page-header {
-  background-color: plum
+  background-color: #202829;
   margin-top: 0;
   padding: 20px 20px 20px 40px;
 }
@@ -11,22 +11,25 @@
   color: #ffffff;
   font-size: 36pt;
   text-decoration: none;
+  font-weight: bold;
 }
 
 .content {
   margin-left: 40px;
-  background-color: #000000;
+  background-color: #ba1f31;
 }
 
 h1,
 h2,
 h3,
 h4 {
-  font-family: "Cairo", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  color: #202829;
+  font-weight: bold;
 }
 
 .date {
-  color: #828282;
+  color: #202829;
 }
 
 .save {
@@ -53,5 +56,4 @@ h4 {
 
 .post h2 a,
 .post h2 a:visited {
-  color: #000000;
 }
